@@ -1,0 +1,2 @@
+normal_training = 0.462,
+early_stopping = 0.569
